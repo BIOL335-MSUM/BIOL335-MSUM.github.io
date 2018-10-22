@@ -2,6 +2,11 @@ name: "BIOL 335 Tropical Conservation Biology @ MSUM"
 output_dir: "."
 navbar:
   title: "Tropical Conservation Biology"
+  left:
+    - text: "Course Overview"
+      href: index.html
+    - text: "Photo Gallery"
+      href: gallery.html
 output:
   html_document:
     theme: flatly

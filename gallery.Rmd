@@ -1,0 +1,10 @@
+---
+title: "Photo Gallery"
+---
+
+## Other photos
+
+Photos of plants and animals seen on previous trips:
+
+- [Birds](https://ebird.org/media/catalog?mediaType=Photo&searchField=user&includeUnconfirmed=true&userId=USER150509&regionCode=CR&sort=upload_date_desc), from eBird
+- [Other plants and animals](https://www.inaturalist.org/projects/msum-costa-rica-2018?tab=observations), from iNaturalist
