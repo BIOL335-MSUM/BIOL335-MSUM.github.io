@@ -67,7 +67,7 @@ And this is a slide show showing some of the places and things we'll see. Click 
 
 <br />
 
-<iframe src="https://msumhd-my.sharepoint.com/personal/su7849xi_mnstate_edu/_layouts/15/Doc.aspx?sourcedoc={9aed810d-0f01-41ed-925c-739c7d003b79}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
+<iframe src="https://mnscu-my.sharepoint.com/personal/su7849xi_minnstate_edu/_layouts/15/Doc.aspx?sourcedoc={344c70d3-c106-4bb6-abdb-7f34f6b79c79}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
 
 <br />
 
@@ -111,4 +111,4 @@ Here are some photos of some of these activities:
 Photos of plants and animals seen on previous trips:
 
 - [Birds](https://ebird.org/media/catalog?mediaType=Photo&searchField=user&includeUnconfirmed=true&userId=USER150509&regionCode=CR&sort=upload_date_desc), from eBird
-- [Other plants and animals](https://www.inaturalist.org/projects/msum-costa-rica-2018?tab=observations), from iNaturalist
+- [Other plants and animals](https://www.inaturalist.org/projects/msum-costa-rica?tab=observations&subtab=grid), from iNaturalist
