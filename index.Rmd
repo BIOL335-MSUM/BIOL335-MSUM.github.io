@@ -9,15 +9,17 @@ Welcome to the course website for BIOL 335 Tropical Conservation Biology at MSUM
 Content:
 
 - [Course Overview]
-- [Dates and Cost]
+- [Spring 2020 Course Information]
+    - [Dates and Cost]
+    - [Informational Meetings]
 - [How to Register]
-- [Informational Meetings]
-- [What is the trip like?]
-- [Where do we stay?]
-- [What kinds of activities will we do?]
-- [What kinds of plants and animals will we see?]
+- [About the course]
+    - [What is the trip like?]
+    - [Where do we stay?]
+    - [What kinds of activities will we do?]
+    - [What kinds of plants and animals will we see?]
 
-### Course Overview
+# Course Overview
 
 - Learn about tropical ecology in one of the most diverse places on Earth
 - See different social and economic models for conservation biology
@@ -25,35 +27,34 @@ Content:
 - Build great friendships and make lasting memories
 - Fulfill your LASC Goal 10 requirement
 
-### Dates and Cost
+# Spring 2020 Course Information
 
-- Travel to Costa Rica Friday, March 1 to Tuesday, March 12
-- Class meets Mondays at 3 PM
-- Students present at [Student Academic Conference](https://www.mnstate.edu/sac/) April 19
-- Cost is $2,400 plus tuition
+## Dates and Cost
+
+- Travel to Costa Rica Friday, March 6 to Tuesday, March 17.
+- Class will meet weekly before the trip.
+- Students will present at the [Student Academic Conference](https://www.mnstate.edu/sac/) April 21
+- Approximate cost is $2,500 plus tuition
 - **Student financial aid available for full cost**
 
-### How to Register
+## Informational Meetings
+
+Several informational meetings will be held in September and October. The purpose of these is to give students a chance to hear more about the course and to ask questions of the instructor.
+
+Meetings dates and times will be announced in August 2019.
+
+If you are unable to attend one of the informational meetings, or if you have any questions, please email Chris Merkord chris.merkord@mnstate.edu or Brian Wisenden wisenden@mnstate.edu.
+
+# How to Register
 
 - Open to all majors
 - No prerequisites
 - Tri-college students welcome
 - Permission required from the instructor, email christopher.merkord@mnstate.edu
 
-### Informational Meetings
+# About the course
 
-Three informational meetings will be held in October. The purpose of these is to give students a chance to hear more about the course and to ask questions of the instructor.
-
-Meetings:
-
-- 7 PM Thursday, October 18 in Langseth 118
-- 11 AM Wednesday, October 24 in Hagen 113
-- 12 PM Thursday, October 25 in Langseth 102
-- 4 PM Monday, November 19 in Langseth 118
-
-If you are unable to attend one of the informational meetings, or if you have any questions, please email Chris Merkord christopher.merkord@mnstate.edu or Brian Wisenden wisenden@mnstate.edu.
-
-### What is the trip like?
+## What is the trip like?
 
 Every trip is unique, but we guarantee you'll have an amazing experience. One of our past participants put together this video to give you an idea of what to expect on the trip.
 
@@ -71,7 +72,7 @@ And this is a slide show showing some of the places and things we'll see. Click 
 
 <br />
 
-### Where do we stay?
+## Where do we stay?
 
 The trip is spent at three main locations:
 
@@ -83,7 +84,7 @@ Here are some photos of the locations:
 
 
 
-### What kinds of activities will we do?
+## What kinds of activities will we do?
 
 The exact list of activities varies from year to year, but here are some examples of things done in the past:
 
@@ -106,7 +107,7 @@ The exact list of activities varies from year to year, but here are some example
 
 Here are some photos of some of these activities:
 
-### What kinds of plants and animals will we see?
+## What kinds of plants and animals will we see?
 
 Photos of plants and animals seen on previous trips:
 
